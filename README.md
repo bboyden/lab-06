@@ -1,1 +1,2 @@
 # lab-06
+This lab was an intro for me to working with JavaScript classes, and it was actually fun which was different for me. I made a Book class and then a Library class that could hold books, however through code. I added a couple books, gave them ISBNs, and even figured out how to delete one. It felt very much like building an app just more simple. Also got to work with GitHub some more and practiced good habits with coding.
